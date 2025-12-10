@@ -24,6 +24,7 @@
 
 body{
    background-color: var(--color3);
+   background-attachment: fixed;
     font-family: var(--standart-font);
     text-align: center;
     color: black;
