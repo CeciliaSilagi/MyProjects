@@ -29,6 +29,7 @@ body{
     text-align: center;
     color: black;
     margin: auto;
+    overflow: auto;
 }
 
 header {
