@@ -56,7 +56,8 @@ section {
     background-color: var(--color5);
     display: block;
     text-align: left;
-    padding: 10px 0;
+    padding: 10px;
+    width: 50px;
 }
 
 section#Menu {
