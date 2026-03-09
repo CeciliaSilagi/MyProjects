@@ -54,7 +54,7 @@ main#Menu > a{
 
 section {
     background-color: var(--color5);
-    display: none;
+    display: block;
     text-align: left;
     width: 50px;
 }
