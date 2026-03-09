@@ -38,6 +38,7 @@ body{
 
 main#Menu {
     text-align: right;
+    background-color: var(--color5);
 }
 
 main#Menu > a{
