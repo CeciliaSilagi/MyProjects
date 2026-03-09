@@ -40,6 +40,10 @@ nav {
     padding: 10px 0;
 }
 
+nav:hover {
+    background-color: var(--color4);
+}
+
 header {
     background-color: var(--color0);
     text-align: center;
