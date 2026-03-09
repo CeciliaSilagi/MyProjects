@@ -37,6 +37,10 @@ body{
 }
 
 nav#Menu {
+    text-align: right;
+}
+
+nav#Menu > a{
     background-color: var(--color5);
     color: var(--color0);
     width: 50px;
