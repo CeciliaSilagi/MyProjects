@@ -46,6 +46,7 @@ nav#Menu > a{
     width: 50px;
     margin: 10px;
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.366);
+    transform: translate(-3px,-3px);
     transition: transform 0.2s, border 1s;
 }
 
