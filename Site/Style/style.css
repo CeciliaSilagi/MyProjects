@@ -34,8 +34,8 @@ body{
 
 nav {
     background-color: var(--color1);
-    display: flex;
-    justify-content: right;
+    display: block;
+    justify-content: center;
     padding: 10px 0;
 }
 
