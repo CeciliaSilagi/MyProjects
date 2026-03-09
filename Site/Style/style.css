@@ -36,6 +36,14 @@ body{
     overflow: auto;
 }
 
+nav#Menu {
+    background-color: var(--color5);
+    color: var(--color0);
+    display: block;
+    text-align: left;
+    padding: 10px 0;
+}
+
 section {
     background-color: var(--color5);
     display: block;
