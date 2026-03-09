@@ -28,3 +28,10 @@ body{
     text-align: center;
     color: black;
 }
+
+article {
+    background-color: var(--color0);
+    display: block;
+    text-align: left;
+    padding: 10px;
+}
