@@ -39,6 +39,8 @@ body{
 main#Menu {
     text-align: right;
     background-color: var(--color5);
+    transform: translate(-3px,-3px);
+    transition: transform 0.2s, border 1s;
 }
 
 main#Menu > a{
