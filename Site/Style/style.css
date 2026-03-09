@@ -32,6 +32,13 @@ body{
     overflow: auto;
 }
 
+nav {
+    background-color: var(--color1);
+    display: flex;
+    justify-content: left;
+    padding: 10px 0;
+}
+
 header {
     background-color: var(--color0);
     text-align: center;
