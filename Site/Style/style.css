@@ -36,7 +36,7 @@ nav {
     background-color: var(--color5);
     color: var(--color0);
     display: block;
-    justify-content: center;
+    text-align: center;
     padding: 10px 0;
 }
 
