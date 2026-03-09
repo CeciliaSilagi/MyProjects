@@ -34,7 +34,6 @@ body{
 
 nav {
     background-color: var(--color5);
-    color: var(--color0);
     display: block;
     text-align: left;
     padding: 10px 0;
@@ -42,6 +41,7 @@ nav {
 
 nav:hover {
     background-color: var(--color4);
+    color: var(--color0);
 }
 
 header {
