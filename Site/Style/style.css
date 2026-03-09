@@ -59,6 +59,14 @@ section {
     padding: 10px 0;
 }
 
+section#Menu {
+     color: var(--color1);
+    width: 50px;
+    margin: 10px;
+    transform: translate(-3px,-3px);
+    transition: transform 0.2s, border 1s;
+}
+
 section:hover {
     background-color: var(--color4);
     color: var(--color0);
