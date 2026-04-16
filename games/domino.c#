@@ -12,3 +12,10 @@ public readonly record struct DominoTile(int x, int y)
         return $"[{x}|{y}]";
     }
 }
+
+public class Players {
+    public string Player_name { get; }
+
+    public List<DominoTile> Hand
+    {get;} = new List<DominoTile>();
+}
