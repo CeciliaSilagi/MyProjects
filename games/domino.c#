@@ -1,0 +1,15 @@
+using System;
+class board {
+    int table=64;
+    public void play (int x, int y) {
+        if (x+y==table)
+        {
+            Console.WriteLine("You win!");
+        }
+        else
+        {
+            Console.WriteLine("Try again!");
+        }
+    }
+
+}
