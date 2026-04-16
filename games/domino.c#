@@ -1,15 +1,14 @@
 using System;
-class board {
-    int table=64;
-    public void play (int x, int y) {
-        if (x+y==table)
-        {
-            Console.WriteLine("You win!");
-        }
-        else
-        {
-            Console.WriteLine("Try again!");
-        }
-    }
+using System.Collections.Generic;
+using System.Linq;
 
+public readonly record struct DominoTile(int x, int y)
+{
+    public bool IsDouble => x ==
+    y;
+
+    public override string ToString()
+    {
+        return $"[{x}|{y}]";
+    }
 }
