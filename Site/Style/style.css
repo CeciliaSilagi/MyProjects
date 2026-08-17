@@ -5,12 +5,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Ancizar+Serif:ital,wght@0,300..900;1,300..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
-    --color0:#E0FFFF;
-    --color1:#AFEEEE;
+    --color0: #E0FFFF;
+    --color1: #AFEEEE;
     --color2: #ADD8E6;
-    --color3: #2e86ac;
-    --color4: #0d78a7;
-    --color5: #065c81;;
+    --color3: #4682B4;
+    --color4: #1E90FF;
+    --color5: #065c81;
 
     --standart-font: Arial, Verdana, Helvetica, sans-serif;
     --highlight-font:'Bebas Neue', 'cursive';
