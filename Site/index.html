@@ -8,15 +8,19 @@
     <link rel="Login" href="login/login.js">
     <link rel="Mediaquerie" href="mediaquerie/mediaquerie.css">
 </head>
-<body onresize="">
+<body onresize="changeSize()">
      <header>
         <h1>My Projects</h1>
-    <main class="Menu">
-      <section id="Menu">
-          <a href="#">Menu</a>
-          <a href="New Projects/New Project.html">New Projects</a>
-          <a href="Old Projects/Old Project.html">Old Projects</a>
-      </section>
+        <i id="burger-menu" class="material-symbols-outlined" onclick="clickMenu()">Menu</i>
+    <main class="Menu" id="itens">
+      <menu id="Menu">
+          <ul>
+              <a href="#">Menu</a>
+              <a href="New Projects/New Project.html">New Projects</a>
+              <a href="Old Projects/Old Project.html">Old Projects</a>
+                   
+          </ul>
+       </menu>
     </main>
        <p>This are my Projects from my personal folders  </p>
     </header>
