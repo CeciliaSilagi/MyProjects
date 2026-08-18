@@ -127,7 +127,7 @@ section#Login > div#form {
 form {
     display: block;
     padding: 20px;
-    background-color: var(--color1);
+    background-color: var(--color5);
     font-family: var(--nunito-font);
 }
 
