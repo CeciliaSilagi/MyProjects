@@ -111,7 +111,7 @@ main {
 
 section#Login {
     position: justify;
-    margin: 15px;
+    top: 15px;
     background-color: var(--color1);
     text-align: center;
 }
