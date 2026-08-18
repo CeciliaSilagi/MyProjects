@@ -126,6 +126,11 @@ main h2 {
     text-indent: 8px;
 }
 
+article {
+    padding: 35px;
+    background-color: var(--color1);
+    font-family: var(--standart-font);
+}
 
 footer {
     padding: 35px;
