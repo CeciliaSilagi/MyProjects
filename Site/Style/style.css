@@ -130,7 +130,7 @@ section#Login > div#form {
 }
 
 main  h1 {
-    color: var(--color5);
+    color: var(--color4);
     font-family: var(--nunito-font);
     font-size: 1.2em;
     font-weight: normal;
