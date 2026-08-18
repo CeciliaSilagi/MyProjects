@@ -42,7 +42,7 @@ header {
     text-align: center;
     background-color: var(--color3);
     color: var(--color0);
-    font-family: var(--highlight-font);
+    font-family: var(--standart-font);
     font-size: 1.5em;
 }
 
