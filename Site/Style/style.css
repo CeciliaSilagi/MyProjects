@@ -32,7 +32,7 @@ body{
    background-color: var(--color2);
    background-attachment: fixed;
     font-family: var(--standart-font);
-    text-align: center;
+    text-align: justify;
     color: black;
     margin: auto;
     overflow: auto;
