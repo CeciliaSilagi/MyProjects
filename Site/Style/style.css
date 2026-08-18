@@ -125,6 +125,7 @@ section#Login > div#form {
     padding: 10px;
     display: block;
     background-size: cover;
+    background-position: center;
 }
 
 main  h1 {
