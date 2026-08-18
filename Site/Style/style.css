@@ -115,7 +115,9 @@ section#Login {
     background-color: var(--color1);
     transform: translate(5px,5px);
     overflow: hidden;
+    
     text-align: center;
+    background-color: var(--color5);
 }
 
 main  h1 {
