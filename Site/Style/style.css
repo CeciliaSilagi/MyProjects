@@ -29,7 +29,7 @@
 }
 
 body{
-   background-color: var(--color5);
+   background-color: var(--color1);
    background-attachment: fixed;
     font-family: var(--standart-font);
     text-align: justify;
