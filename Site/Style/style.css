@@ -113,7 +113,7 @@ section#Login {
     position: justify;
     top: 15px;
     background-color: var(--color1);
-    transform: translate(50px,50px);
+    transform: translate(20px,20px);
     text-align: center;
 }
 
