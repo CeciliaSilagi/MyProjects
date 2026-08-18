@@ -29,7 +29,7 @@
 }
 
 body{
-   background-color: var(--color2);
+   background-color: var(--color5);
    background-attachment: fixed;
     font-family: var(--standart-font);
     text-align: justify;
@@ -40,7 +40,7 @@ body{
 
 main#Menu {
     text-align: right;
-    background-color: var(--color5);
+    background-color: var(--color4);
     transform: translate(-3px,-3px);
     transition: transform 0.2s, border 1s;
 }
