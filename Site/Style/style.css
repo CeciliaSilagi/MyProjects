@@ -114,6 +114,7 @@ section#Login {
     top: 15px;
     background-color: var(--color1);
     transform: translate(5px,5px);
+    overflow: hidden;
     text-align: center;
 }
 
