@@ -111,11 +111,6 @@ main {
 section#Login {
     background-color: var(--color1);
     text-align: center;
-    padding: 10px;
-    margin: auto;
-    width: 300px;
-    height: 300px;
-    border-radius: 10px;
 }
 
 main  h1 {
