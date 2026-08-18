@@ -54,10 +54,6 @@ main#Menu > a{
     transition: transform 0.2s, border 1s;
 }
 
-main#Menu > a:hover {
-    background-color: var(--color4);
-    color: var(--color0);
-}
 
 section {
     background-color: var(--color5);
