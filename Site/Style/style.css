@@ -71,11 +71,9 @@ section#Login > div#form {
 }
 
 section:hover {
-    background-color: var(--color0);
-    color: var(--color1);
+    background-color: var(--color3);
+    color: var(--color2);
 }
-
-
 
 h1 {
     text-align: center;
