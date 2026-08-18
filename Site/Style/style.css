@@ -110,8 +110,8 @@ main {
 
 section#Login {
     position: absolute;
-    top: 50%;
-    left:50%;
+    top: 15%;
+    left: 15%;
     background-color: var(--color1);
     text-align: center;
 }
