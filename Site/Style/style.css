@@ -124,6 +124,7 @@ main h2 {
 }
 
 footer {
+    margin-top: 10px;
     background-color: var(--color4);
     font-family: var(--standart-font);
 }
