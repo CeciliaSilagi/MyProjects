@@ -117,8 +117,7 @@ section#Login {
     overflow: hidden;
     
     text-align: center;
-    color: black;
-    background-color: var(--color5);
+    background-color: var(--color1);
 }
 
 main  h1 {
