@@ -85,8 +85,8 @@ header {
 header > h1 {
     font-family: var(--standart-font);
     font-size: 1em;
-    width: 5vw;
-    height: 5vh;
+    width: 15vw;
+    height: 15vh;
     
     margin: auto;
     text-align: center;
