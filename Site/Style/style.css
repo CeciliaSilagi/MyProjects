@@ -124,6 +124,13 @@ section#Login > div#form {
     background-position: center;
 }
 
+form {
+    display: block;
+    padding: 20px;
+    background-color: var(--color1);
+    font-family: var(--nunito-font);
+}
+
 main  h1 {
     color: var(--color4);
     font-family: var(--nunito-font);
