@@ -108,7 +108,7 @@ main {
 section#Login {
     position: justify;
     top: 30px;
-    background-color: var(--color1);
+    background-color: var(--color5);
     transform: translate(5px,5px);
     overflow: hidden;
     
