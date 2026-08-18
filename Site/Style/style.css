@@ -113,6 +113,7 @@ section#Login {
     position: justify;
     top: 15px;
     background-color: var(--color1);
+    transform: translate(-50px,-50px);
     text-align: center;
 }
 
