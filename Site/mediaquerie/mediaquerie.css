@@ -13,4 +13,12 @@ Grandes telas: acima de 1200px
     i#burger-menu {
         display: none;
     }
+
+    menu {
+        display: block;
+    }
+
+    menu > ul> li {
+        display: inline-block;
+    }
 }
