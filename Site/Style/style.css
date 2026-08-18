@@ -18,8 +18,10 @@
 }
 
 * {
-    margin: 1px;
+    font-family: var(--standart-font);
     padding: 1px;
+    margin: 1px;
+    font-size: 1em;
 }
 
 ::-webkit-scrollbar {
