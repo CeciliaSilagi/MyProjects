@@ -72,7 +72,7 @@ main#Menu {
 
 main#Menu > ul#menu-items {
     background-color: var(--color5);
-    color: var(--color0);
+    color: var(--color2);
     width: 50px;
     margin: 10px;
     transform: translate(-3px,-3px);
