@@ -52,11 +52,6 @@ header > h1 {
     color: var(--color0);
 }
 
-h1 {
-    text-align: center;
-    font-family: var(--highlight-font);
-}
-
 main {
   position: justify;
   padding: 1.5px;
@@ -82,6 +77,11 @@ main#Menu > a{
     margin: 10px;
     transform: translate(-3px,-3px);
     transition: transform 0.2s, border 1s;
+}
+
+h1 {
+    text-align: center;
+    font-family: var(--highlight-font);
 }
 
 section {
