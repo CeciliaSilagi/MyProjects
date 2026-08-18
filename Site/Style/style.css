@@ -62,7 +62,7 @@ section {
     padding: 10px;
 }
 
-section#Menu {
+section#Login > div#form {
      color: var(--color1);
     width: 50px;
     margin: 10px;
