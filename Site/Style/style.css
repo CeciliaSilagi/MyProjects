@@ -133,7 +133,7 @@ article {
 }
 
 footer {
-    padding: 35px;
+    padding: 10px;
     background-color: var(--color4);
     font-family: var(--standart-font);
 }
