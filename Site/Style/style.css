@@ -89,7 +89,7 @@ header > h1 {
     height: 10vh;
     padding-right: 45px;
     padding-left: 45px;
-    margin: justify;
+    margin: auto;
     text-align: center;
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.265);
 }
