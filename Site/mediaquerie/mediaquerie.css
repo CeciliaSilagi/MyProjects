@@ -30,9 +30,15 @@ Grandes telas: acima de 1200px
 
     i#burger-menu {
         display: block;
+        width: 50px;
     }
 
     menu {
         display: none;
     }
+
+    section {
+        background-color: var(--color2);
+    }
 }
+
