@@ -38,7 +38,26 @@ body{
     overflow: auto;
 }
 
+main#Menu {
+    text-align: right;
+    background-color: var(--color5);
+    transform: translate(-3px,-3px);
+    transition: transform 0.2s, border 1s;
+}
 
+main#Menu > a{
+    background-color: var(--color2);
+    color: var(--color0);
+    width: 50px;
+    margin: 10px;
+    transform: translate(-3px,-3px);
+    transition: transform 0.2s, border 1s;
+}
+
+main#Menu > a:hover {
+    background-color: var(--color4);
+    color: var(--color0);
+}
 
 section {
     background-color: var(--color5);
@@ -76,31 +95,6 @@ main {
   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.410);
   border-bottom: 10px 10px;
     
-}
-
-main#Menu {
-    text-align: right;
-    background-color: var(--color5);
-    transform: translate(-3px,-3px);
-    transition: transform 0.2s, border 1s;
-}
-
-main#Menu > a{
-    background-color: var(--color2);
-    color: var(--color0);
-    width: 50px;
-    margin: 10px;
-    transform: translate(-3px,-3px);
-    transition: transform 0.2s, border 1s;
-}
-
-main#Menu > a:hover {
-    background-color: var(--color4);
-    color: var(--color0);
-    width: 50px;
-    margin: 10px;
-    transform: translate(-3px,-3px);
-    transition: transform 0.2s, border 1s;
 }
 
 section#Login {
