@@ -70,7 +70,7 @@ main#Menu {
     transition: transform 0.2s, border 1s;
 }
 
-main#Menu > a{
+main#Menu > ul{
     background-color: var(--color2);
     color: var(--color0);
     width: 50px;
