@@ -71,7 +71,7 @@ main#Menu {
 }
 
 main#Menu > ul{
-    background-color: var(--color2);
+    background-color: var(--color0);
     color: var(--color0);
     width: 50px;
     margin: 10px;
