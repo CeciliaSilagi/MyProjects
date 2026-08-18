@@ -121,6 +121,11 @@ section#Login {
     background-color: var(--color1);
 }
 
+section#Login > div#form {
+    padding: 10px;
+    display: block;
+}
+
 main  h1 {
     color: var(--color5);
     font-family: var(--nunito-font);
