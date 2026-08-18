@@ -71,7 +71,7 @@ main#Menu {
 }
 
 main#Menu > ul#menu-items {
-    background-color: var(--color0);
+    background-color: var(--color3);
     color: var(--color0);
     width: 50px;
     margin: 10px;
@@ -82,7 +82,7 @@ main#Menu > ul#menu-items {
 h1 {
     text-align: center;
     font-family: var(--highlight-font);
-    background-color: var(--color0);
+    background-color: var(--color3);
 }
 
 h1 > i#burger-menu {
