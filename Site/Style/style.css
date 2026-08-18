@@ -46,6 +46,12 @@ header {
     font-size: 1.5em;
 }
 
+header > h1 {
+    font-family: var(--highlight-font);
+    font-size: 2em;
+    color: var(--color0);
+}
+
 main#Menu {
     text-align: right;
     background-color: var(--color4);
