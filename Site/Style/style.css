@@ -31,7 +31,7 @@
 body{
    background-color: var(--color1);
    background-attachment: fixed;
-    font-family: var(--standart-font);
+    font-family: var(--highlight-font);
     text-align: justify;
     color: black;
     margin: auto;
