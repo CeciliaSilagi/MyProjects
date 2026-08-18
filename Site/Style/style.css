@@ -117,6 +117,7 @@ section#Login {
     overflow: hidden;
     
     text-align: center;
+    color: black;
     background-color: var(--color5);
 }
 
