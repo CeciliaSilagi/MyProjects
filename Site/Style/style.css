@@ -52,6 +52,11 @@ header > h1 {
     color: var(--color0);
 }
 
+h1 {
+    text-align: center;
+    font-family: var(--highlight-font);
+}
+
 main {
   position: justify;
   padding: 1.5px;
@@ -79,7 +84,6 @@ main#Menu > a{
     transition: transform 0.2s, border 1s;
 }
 
-
 section {
     background-color: var(--color5);
     display: block;
@@ -99,13 +103,6 @@ section:hover {
     background-color: var(--color3);
     color: var(--color2);
 }
-
-h1 {
-    text-align: center;
-    font-family: var(--highlight-font);
-}
-
-
 
 section#Login {
     position: justify;
