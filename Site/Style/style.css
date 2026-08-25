@@ -99,19 +99,6 @@ section {
     padding: 10px;
 }
 
-section#Login > div#form {
-     color: var(--color1);
-    width: 50px;
-    margin: 10px;
-    transform: translate(-3px,-3px);
-    transition: transform 0.2s, border 1s;
-}
-
-section:hover {
-    background-color: var(--color3);
-    color: var(--color2);
-}
-
 section#Login {
     position: justify;
     top: 30px;
@@ -129,6 +116,19 @@ section#Login > div#form {
     display: block;
     background-size: cover;
     background-position: center;
+}
+
+section#Login > div#form {
+     color: var(--color1);
+    width: 50px;
+    margin: 10px;
+    transform: translate(-3px,-3px);
+    transition: transform 0.2s, border 1s;
+}
+
+section:hover {
+    background-color: var(--color3);
+    color: var(--color2);
 }
 
 form {
