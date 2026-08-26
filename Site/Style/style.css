@@ -50,6 +50,8 @@ header > h1 {
     font-family: var(--highlight-font);
     font-size: 2em;
     color: var(--color0);
+
+    padding: 10px;
 }
 
 main {
