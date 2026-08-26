@@ -94,6 +94,10 @@ h1 > i#burger-menu {
     background-color: var(--color1);
 }
 
+h2 {
+    text-align: justify;
+}
+
 section {
     background-color: var(--color5);
     display: block;
