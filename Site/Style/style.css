@@ -90,7 +90,7 @@ h1 > i#burger-menu {
 h1#Chess-Project {
     text-align: center;
     font-family: var(--highlight-font);
-    background-color: var(--color3);
+    background-color: var(--color5);
     color: var(--color0);
     font-size: 2em;
 }
