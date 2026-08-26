@@ -175,7 +175,7 @@ section#Login > div#form {
 }
 
 section#Login > div#form {
-     color: var(--color1);
+     color: var(--color3);
     width: 50px;
     margin: 10px;
     transform: translate(-3px,-3px);
