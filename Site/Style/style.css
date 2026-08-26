@@ -79,7 +79,6 @@ main {
   position: justify;
   padding: 1.5px;
   margin: auto;
-  margin-bottom: 35px;
   background-color: var(--color2);
   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.410);
   border-bottom: 10px 10px;
