@@ -101,6 +101,10 @@ menu#Menu > ul#menu-items > li > a:hover {
     background-color: gray;
 }
 
+.Menu {
+    overflow: auto;
+}
+
 section {
     background-color: var(--color5);
     display: block;
