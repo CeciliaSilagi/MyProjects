@@ -99,6 +99,10 @@ i#burger-menu:hover {
     background-color: var(--color4);
 }
 
+menu {
+    display: none;
+}
+
 main {
   position: justify;
   padding: 1.5px;
