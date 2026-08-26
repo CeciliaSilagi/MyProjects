@@ -12,4 +12,12 @@ function clickMenu(){
     } else {
         itens.style.display = 'block';
     }
+
+    const Menu = document.getElementById(Menu);
+}
+
+function Mouseover (){
+    const burgermenu = document.getElementById("burger-menu");
+    document.getElementById("menu-items").innerHTML = menubar;
+
 }
