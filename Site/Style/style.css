@@ -95,12 +95,8 @@ i#burger-menu {
     cursor: pointer;
 }
 
-h1#Chess-Project {
-    text-align: center;
-    font-family: var(--highlight-font);
-    background-color: var(--color5);
-    color: var(--color0);
-    font-size: 2em;
+i#burger-menu:hover {
+    background-color: var(--color4);
 }
 
 main {
