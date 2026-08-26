@@ -99,7 +99,6 @@ menu > ul#menu-items > li > a:hover {
     background-color: gray;
 }
 
-
 section {
     background-color: var(--color5);
     display: block;
@@ -138,8 +137,6 @@ section:hover {
     background-color: var(--color3);
     color: var(--color2);
 }
-
-
 
 main {
   position: justify;
@@ -218,5 +215,5 @@ main > h2 {
 footer {
     padding: 10px;
     background-color: var(--color3);
-    font-family: var(--standart-font);
+    font-family: var(--nunito-font);
 }
