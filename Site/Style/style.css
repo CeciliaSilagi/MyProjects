@@ -82,11 +82,11 @@ menu {
     display: none;
 }
 
-menu > ul {
+menu > ul#menu-items {
     list-style-type: none;
 }
 
-menu > ul > li > a {
+menu > ul#menu-items > li > a {
     display: block;
     padding: 10px;
     text-align: center;
