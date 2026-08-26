@@ -132,7 +132,7 @@ section#Login > div#form {
 
 section#Login > div#form {
      color: var(--color3);
-    width: 50px;
+    width: 40px;
     margin: 10px;
     transform: translate(-3px,-3px);
     transition: transform 0.2s, border 1s;
