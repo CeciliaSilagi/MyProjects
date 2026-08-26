@@ -38,6 +38,11 @@ body{
     overflow: auto;
 }
 
+article {
+    text-align: justify;
+    background-color: var(--color1);
+}
+
 header {
     text-align: center;
     background-color: var(--color3);
