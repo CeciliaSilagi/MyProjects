@@ -159,7 +159,7 @@ main#itens {
 
 main#itens > ul#menu-items {
     background-color: var(--color5);
-    color: var(--color2);
+    color: white;
     width: 50px;
     margin: 10px;
     transform: translate(-3px,-3px);
