@@ -54,7 +54,7 @@ header > h1 {
 h1 {
     text-align: center;
     font-family: var(--highlight-font);
-    background-color: var(--color5);
+    background-color: var(--color1);
 
     font-size: 2em;
 }
@@ -63,7 +63,7 @@ h1 > i#burger-menu {
     display: none;
     width: 50px;
     height: 50px;
-    background-color: var(--color1);
+    background-color: var(--color3);
 }
 
 i#burger-menu {
