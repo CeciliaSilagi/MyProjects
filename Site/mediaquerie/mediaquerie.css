@@ -14,11 +14,11 @@ Grandes telas: acima de 1200px
         display: none;
     }
 
-    menu {
+    menu#Menu {
         display: block;
     }
 
-    menu > ul> li {
+    menu#Menu > ul#menu-items > li {
         display: inline-block;
     }
 }
@@ -33,7 +33,7 @@ Grandes telas: acima de 1200px
         width: 50px;
     }
 
-    menu {
+    menu#Menu {
         display: none;
     }
 
