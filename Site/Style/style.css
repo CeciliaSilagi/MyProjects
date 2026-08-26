@@ -64,6 +64,8 @@ h1 {
     text-align: center;
     font-family: var(--highlight-font);
     background-color: var(--color3);
+
+    font-size: 2em;
 }
 
 h1 > i#burger-menu {
