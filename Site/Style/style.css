@@ -44,6 +44,12 @@ article {
     font-family: var(--standart-font);
 }
 
+article > main {
+    padding: 30px;
+    background-color: var(--color2);
+    font-family: var(--standart-font);
+}
+
 header {
     text-align: center;
     background-color: var(--color3);
