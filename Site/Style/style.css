@@ -44,10 +44,16 @@ article {
     font-family: var(--standart-font);
 }
 
-article > main {
+article > main >h1#Chess-Project {
     padding: 30px;
     background-color: var(--color2);
     font-family: var(--standart-font);
+}
+
+article > h1#Chess-Project {
+    padding: 30px;
+    background-color: var(--color4);
+    font-family: var(--nunito-font);
 }
 
 header {
