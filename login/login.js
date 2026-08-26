@@ -18,6 +18,6 @@ function clickMenu(){
 
 function Mouseover (){
     const burgermenu = document.getElementById("burger-menu");
-    document.getElementById("menu-items").innerHTML = menubar;
+    document.getElementById("menu-items").innerHTML;
 
 }
