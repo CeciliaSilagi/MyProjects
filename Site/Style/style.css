@@ -105,6 +105,12 @@ menu#Menu > ul#menu-items > li > a:hover {
     overflow: auto;
 }
 
+.Menu > a  {
+    float: left;
+    text-align: center;
+    text-decoration: none;
+}
+
 section {
     background-color: var(--color5);
     display: block;
