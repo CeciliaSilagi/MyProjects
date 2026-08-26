@@ -103,14 +103,17 @@ menu {
     display: none;
 }
 
-menu > ul#menu-items > li > a {
+menu > ul {
+    list-style-type: none;
+}
+
+menu > ul > li > a {
     display: block;
-    background-color: var(--color5);
-    color: var(--color2);
-    width: 50px;
-    margin: 10px;
-    transform: translate(-3px,-3px);
-    transition: transform 0.2s, border 1s;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+
 }
 
 main {
