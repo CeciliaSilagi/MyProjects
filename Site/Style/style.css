@@ -41,6 +41,7 @@ body{
 article {
     text-align: justify;
     background-color: var(--color1);
+    font-family: var(--standart-font);
 }
 
 header {
