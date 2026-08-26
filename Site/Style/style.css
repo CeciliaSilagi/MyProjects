@@ -104,6 +104,11 @@ menu#Menu > ul#menu-items > li > a:hover {
     text-decoration: none;
 }
 
+#Menu:hover {
+    background-color: var(--color5);
+    color: black;
+}
+
 section {
     background-color: var(--color5);
     display: block;
