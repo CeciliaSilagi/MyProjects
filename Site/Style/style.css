@@ -78,6 +78,46 @@ i#burger-menu:hover {
     background-color: var(--color4);
 }
 
+section {
+    background-color: var(--color5);
+    display: block;
+    text-align: left;
+    padding: 10px;
+}
+
+section#Login {
+    position: justify;
+    top: 30px;
+    background-color: var(--color5);
+    transform: translate(5px,5px);
+    overflow: hidden;
+    
+    border-radius: 15px;
+    text-align: center;
+    background-color: var(--color5);
+}
+
+section#Login > div#form {
+    padding: 20px;
+    display: block;
+    background-size: cover;
+    background-position: center;
+}
+
+section#Login > div#form {
+     color: var(--color3);
+    width: 50px;
+    margin: 10px;
+    transform: translate(-3px,-3px);
+    transition: transform 0.2s, border 1s;
+}
+
+section:hover {
+    background-color: var(--color3);
+    color: var(--color2);
+}
+
+
 menu {
     display: none;
 }
@@ -148,44 +188,6 @@ h2 {
     font-family: var(--nunito-font);
 }
 
-section {
-    background-color: var(--color5);
-    display: block;
-    text-align: left;
-    padding: 10px;
-}
-
-section#Login {
-    position: justify;
-    top: 30px;
-    background-color: var(--color5);
-    transform: translate(5px,5px);
-    overflow: hidden;
-    
-    border-radius: 15px;
-    text-align: center;
-    background-color: var(--color5);
-}
-
-section#Login > div#form {
-    padding: 20px;
-    display: block;
-    background-size: cover;
-    background-position: center;
-}
-
-section#Login > div#form {
-     color: var(--color3);
-    width: 50px;
-    margin: 10px;
-    transform: translate(-3px,-3px);
-    transition: transform 0.2s, border 1s;
-}
-
-section:hover {
-    background-color: var(--color3);
-    color: var(--color2);
-}
 
 form {
     display: block;
