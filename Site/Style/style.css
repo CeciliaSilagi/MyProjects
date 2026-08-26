@@ -93,6 +93,7 @@ menu > ul#menu-items > li > a {
     text-align: center;
     text-decoration: none;
     color: white;
+    border-bottom: 1px solid var(--color2);
 }
 
 menu > ul#menu-items > li > a:hover {
