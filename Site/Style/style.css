@@ -127,7 +127,7 @@ section#Login > div#form {
     padding: 20px;
     display: block;
     background-size: cover;
-    background-position: center;
+   background-position: bottom;
 }
 
 section#Login > div#form {
