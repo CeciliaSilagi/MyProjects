@@ -76,6 +76,7 @@ i#burger-menu {
 
 i#burger-menu:hover {
     background-color: var(--color4);
+    color: var(--color0);
 }
 
 section {
