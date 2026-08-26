@@ -94,6 +94,10 @@ menu > ul#menu-items > li > a {
     color: white;
 }
 
+menu > ul#menu-items > li > a:hover {
+    background-color: gray;
+}
+
 main {
   position: justify;
   padding: 1.5px;
