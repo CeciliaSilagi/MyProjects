@@ -98,7 +98,7 @@ menu#Menu > ul#menu-items > li > a {
 }
 
 menu#Menu > ul#menu-items > li > a:hover {
-    background-color: gray;
+    background-color: var(--color4);
 }
 
 .Menu {
