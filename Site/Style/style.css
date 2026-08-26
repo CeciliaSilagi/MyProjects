@@ -39,14 +39,10 @@ body{
 }
 
 article {
-    text-align: justify;
+    padding: 20px;
+    margin: auto;
     background-color: var(--color1);
     font-family: var(--standart-font);
-    
-    margin: auto;
-    width: 90vw;
-    height: 70vh;
-    padding: 10px;
 }
 
 header {
@@ -173,11 +169,7 @@ main h2 {
     text-indent: 8px;
 }
 
-article {
-    padding: 20px;
-    background-color: var(--color1);
-    font-family: var(--standart-font);
-}
+
 
 footer {
     padding: 10px;
