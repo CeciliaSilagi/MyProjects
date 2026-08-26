@@ -96,6 +96,8 @@ h1 > i#burger-menu {
 
 h2 {
     text-align: justify;
+    width: 100%;
+    font-family: var(--nunito-font);
 }
 
 section {
