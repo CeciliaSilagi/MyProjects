@@ -157,7 +157,7 @@ main#Menu {
     transition: transform 0.2s, border 1s;
 }
 
-main#Menu > ul#menu-items {
+main#itens > ul#menu-items {
     background-color: var(--color5);
     color: var(--color2);
     width: 50px;
