@@ -42,6 +42,9 @@ article {
     text-align: justify;
     background-color: var(--color1);
     font-family: var(--standart-font);
+    margin: auto;
+    width: 80vw;
+    padding: 10px;
 }
 
 header {
