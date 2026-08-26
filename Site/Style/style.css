@@ -225,7 +225,7 @@ main > h2 {
 }
 
 footer {
-    padding: 10px;
+    padding: 40px;
     background-color: var(--color3);
     font-family: var(--nunito-font);
 }
