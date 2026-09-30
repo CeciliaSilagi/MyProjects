@@ -1,5 +1,5 @@
 function changeSize() {
-    if(window.innerWidth >= 768 && itens.style.display == 'block') {
+    if(itens.style.display == 'block') {
         itens.style.display ='none';
     } else {
         itens.style.display = 'block';
@@ -10,7 +10,7 @@ function changeSize() {
 }
 
 function clickMenu(){
-    if(window.innerWidth >= 768 && items.style.display == 'block') {
+    if( items.style.display == 'block') {
         items.style.display = 'none';
     } else {
         items.style.display = 'block';
@@ -21,7 +21,7 @@ function clickMenu(){
 }
 
 function Mouseover (){
-    if(window.innerWidth >= 768 && items.style.display == 'block') {
+    if(items.style.display == 'block') {
         items.style.display = 'none';
     } else {
         items.style.display = 'block';
