@@ -66,6 +66,7 @@ i#burger-menu {
     background-color: var(--color2);
     color: white;
     display: block;
+    text-align: center;
 }
 
 i#burger-menu:hover {
