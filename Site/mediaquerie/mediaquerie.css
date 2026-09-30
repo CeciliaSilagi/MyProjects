@@ -25,7 +25,7 @@ Grandes telas: acima de 1200px
 
 @media screen and (max-width: 992px) {
     body {
-        background-color: var(--color2);
+        text-align: center;
     }
 
     i#burger-menu {
