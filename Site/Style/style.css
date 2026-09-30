@@ -50,14 +50,6 @@ header > h1 {
     text-align: center;
 }
 
-h1 {
-    text-align: center;
-    font-family: var(--highlight-font);
-    background-color: var(--color5);
-
-    font-size: 2em;
-}
-
 i#burger-menu {
     background-color: var(--color2);
     width: 100%;
