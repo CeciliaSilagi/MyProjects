@@ -1,8 +1,8 @@
-function changeSize(menu) {
-    if(window.innerWidth >= 768){
-        itens.style.display ='block';
+function changeSize() {
+    if(window.innerWidth >= 768 && itens.style.display == 'block') {
+        itens.style.display ='none';
     } else {
-        itens.style.display = 'none';
+        itens.style.display = 'block';
     }
 }
 
