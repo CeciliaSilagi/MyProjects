@@ -1,4 +1,4 @@
-function changeSize() {
+function changeSize(menu) {
     if(window.innerWidth >= 768){
         itens.style.display ='block';
     } else {
