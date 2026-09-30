@@ -64,7 +64,8 @@ h1 {
 
 i#burger-menu {
     background-color: var(--color2);
-    width: 100%;
+    color: white;
+    display: block;
 }
 
 i#burger-menu:hover {
