@@ -74,8 +74,12 @@ i#burger-menu:hover {
     color: white;
 }
 
-menu#Menu {
+menu {
     display: block;
+}
+
+menu#Menu {
+    display: none;
 }
 
 menu#Menu > ul#menu-items {
