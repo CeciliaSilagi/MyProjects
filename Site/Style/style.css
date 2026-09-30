@@ -175,6 +175,7 @@ main#itens > ul#menu-items {
 
 article {
     padding: 10px;
+    width: 100%;
     background-color: var(--color1);
     font-family: var(--standart-font);
 }
