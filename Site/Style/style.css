@@ -136,11 +136,15 @@ section#Login > div#form {
 }
 
 section#Login > div#form {
-    color: var(--color3);
     width: 40px;
     margin: 10px;
     transform: translate(-3px,-3px);
     transition: transform 0.2s, border 1s;
+}
+
+section:hover {
+    background-color: var(--color2);
+    color: var(--color2);
 }
 
 main {
