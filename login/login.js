@@ -7,7 +7,7 @@ function changeSize() {
 }
 
 function clickMenu(){
-    if(window.innerWidth <= 768){
+    if(window.innerWidth >= 768){
         items.style.display = 'block';
     } else {
         items.style.display = 'none';
