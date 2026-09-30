@@ -74,7 +74,7 @@ i#burger-menu:hover {
     color: white;
 }
 
-menu i#burger-menu {
+menu#Menu > i#burger-menu {
     display: block;
 }
 
