@@ -6,7 +6,7 @@ function changeSize() {
     }
 
     const Menu = document.getElementById(Menu);
-    document.getElementById("menu-items").innerHTML;
+    document.getElementById("i#burger-menu").innerHTML;
 }
 
 function clickMenu(){
