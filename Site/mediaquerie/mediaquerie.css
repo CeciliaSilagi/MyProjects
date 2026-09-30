@@ -20,14 +20,19 @@ Grandes telas: acima de 1200px
         display: block;
     }
 
+    menu#Menu > ul#menu-items {
+        display: none;
+    }
+
     menu#Menu > ul#menu-items > li {
         display: inline-block;
     }
 
     menu#Menu > ul#menu-items > li > a {
-    list-style-type: none;
+       list-style-type: none;
+       padding: 10px;
     }
-    
+
     menu#Menu > ul#menu-items > li > a:hover {
     background-color: var(--color5);
     }
