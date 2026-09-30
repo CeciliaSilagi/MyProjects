@@ -137,7 +137,7 @@ section#Login > div#form {
 }
 
 section#Login > div#form {
-    width: 40px;
+    width: 30px;
     margin: 10px;
     transform: translate(-3px,-3px);
     transition: transform 0.2s, border 1s;
