@@ -61,6 +61,8 @@ h1 {
 i#burger-menu {
     background-color: var(--color2);
     color: var(--color0);
+    width: 100%;
+    
     display: block;
     text-align: center;
     padding: 10px;
