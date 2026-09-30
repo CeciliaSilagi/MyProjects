@@ -23,11 +23,16 @@ Grandes telas: acima de 1200px
     menu#Menu > ul#menu-items > li {
         display: inline-block;
     }
+
+    menu#Menu > ul#menu-items > li > a {
+    list-style-type: none;
+    }
+    
     menu#Menu > ul#menu-items > li > a:hover {
     background-color: var(--color5);
-}
+    }
 
-#Menu:hover {
+    #Menu:hover {
     background-color: var(--color5);
     color: black;
 }
