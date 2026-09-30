@@ -37,7 +37,7 @@ Grandes telas: acima de 1200px
     background-color: var(--color5);
     }
 
-    #Menu:hover {
+    menu#Menu:hover {
     background-color: var(--color5);
     color: black;
 }
