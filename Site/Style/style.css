@@ -94,16 +94,6 @@ menu#Menu > ul#menu-items > li > a:hover {
     background-color: var(--color5);
 }
 
-.Menu {
-    overflow: auto;
-}
-
-.Menu > a  {
-    float: left;
-    text-align: center;
-    text-decoration: none;
-}
-
 #Menu:hover {
     background-color: var(--color5);
     color: black;
