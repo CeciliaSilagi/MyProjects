@@ -21,6 +21,12 @@ function clickMenu(){
 }
 
 function Mouseover (){
+    if(window.innerWidth >= 768 && items.style.display == 'block') {
+        items.style.display = 'none';
+    } else {
+        items.style.display = 'block';
+    }
+    
     const burgermenu = document.getElementById("burger-menu");
     document.getElementById("menu-items").innerHTML;
 
