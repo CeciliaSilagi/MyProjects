@@ -6,6 +6,7 @@ function changeSize() {
     }
 
     const Menu = document.getElementById(Menu);
+    document.getElementById("menu-items").innerHTML;
 }
 
 function clickMenu(){
@@ -16,6 +17,7 @@ function clickMenu(){
     }
 
      const Menu = document.getElementById(Menu);
+     document.getElementById("menu-items").innerHTML;
 }
 
 function Mouseover (){
