@@ -61,7 +61,6 @@ h1 {
 i#burger-menu {
     background-color: var(--color2);
     color: var(--color0);
-    font-family: var(--nunito-font);
     width: 100%;
     
     display: block;
