@@ -143,11 +143,6 @@ section#Login > div#form {
     transition: transform 0.2s, border 1s;
 }
 
-section:hover {
-    background-color: var(--color2);
-    color: var(--color2);
-}
-
 main {
   position: justify;
   padding: 1.5px;
