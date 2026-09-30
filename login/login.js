@@ -1,12 +1,18 @@
 function changeSize() {
     if(window.innerWidth >= 768){
-        itens.style.display ='none';
+        itens.style.display ='block';
     } else {
-        itens.style.display = 'block';
+        itens.style.display = 'none';
     }
 }
 
 function clickMenu(){
+    if(window.innerWidth <= 768){
+        items.style.display = 'block';
+    } else {
+        items.style.display = 'none';
+    }
+
     if(itens.style.display == 'block') {
         itens.style.display = 'none;'
     } else {
