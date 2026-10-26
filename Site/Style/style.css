@@ -66,19 +66,23 @@ h1 {
 
 /* Burger Icon */
 
-.menu-icon {
+.menuBtn {
     cursor: pointer;
     display: flex;
     flex-direction: column;
     gap: 6px;
 }
 
-.menu-icon span {
+.menuBtn span {
     width: 32px;
     height: 4px;
     background: var(--color0);
     transition: 0.2s;
 
+}
+
+.menu {
+    display: none;
 }
 
 .menu-icon > i#burger-menu {
