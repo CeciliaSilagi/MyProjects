@@ -1,4 +1,4 @@
-const menBtn = document.getElementById('menu-btn');
+const menBtn = document.getElementById('menuBtn');
 const menuItems = document.getElementById('menu');
 
 menBtn.addEventListener('click', () => {
