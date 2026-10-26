@@ -85,6 +85,10 @@ h1 {
     display: none;
 }
 
+.menu.active {
+    display: flex;
+}
+
 .menu-icon > i#burger-menu {
     display: block;
 }
@@ -110,9 +114,7 @@ h1 {
     color: black;
 }
 
-.menu-icon.active {
-    display: flex;
-}
+
 
 section {
     background-color: var(--color5);
