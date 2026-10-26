@@ -17,28 +17,28 @@ Grandes telas: acima de 1200px
         cursor: pointer;
     }
 
-    menu#Menu {
+    .menu-icon#Menu {
         display: block;
     }
 
-    menu > ul{
+    .menu-icon > ul{
         display: none;
     }
 
-    menu#Menu > ul#menu-items > li {
+    .menu-icon#Menu > ul#menu-items > li {
         display: block;
     }
 
-    menu#Menu > ul#menu-items > li > a {
+    .menu-icon#Menu > ul#menu-items > li > a {
        list-style-type: none;
        padding: 10px;
     }
 
-    menu#Menu > ul#menu-items > li > a:hover {
+    .menu-icon#Menu > ul#menu-items > li > a:hover {
     background-color: var(--color5);
     }
 
-    menu#Menu:hover {
+    .menu-icon#Menu:hover {
     background-color: var(--color5);
     color: black;
 }
