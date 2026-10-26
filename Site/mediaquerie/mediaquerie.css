@@ -25,7 +25,7 @@ Grandes telas: acima de 1200px
         display: none;
     }
 
-    .menu-icon#Menu > ul#menu-items > li {
+    .menuItems {
         display: block;
     }
 
