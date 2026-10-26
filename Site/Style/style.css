@@ -97,7 +97,7 @@ h1 {
     list-style-type: none;
 }
 
-.menu-icon#Menu > ul#menu-items > li > a:hover {
+.menu-icon#Men> ul#menu-items > li > a:hover {
     background-color: var(--color5);
 }
 
