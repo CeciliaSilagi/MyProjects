@@ -64,6 +64,12 @@ h1 {
     font-size: 2em;
 }
 
+nav {
+    background: var(--color5);
+    padding: 10px 20px;
+   
+}
+
 /* Burger Icon */
 
 .menuBtn {
