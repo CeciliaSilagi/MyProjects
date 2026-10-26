@@ -97,19 +97,23 @@ menu#Menu {
 
 }
 
-menu > i#burger-menu {
+.menu-icon > i#burger-menu {
     display: block;
 }
 
-menu#Menu > ul#menu-items {
+.menu-icon > i#burger-menu {
+    display: block;
+}
+
+.menu-icon#Menu > ul#menu-items {
     list-style-type: none;
 }
 
-menu#Menu > ul#menu-items > li > a {
+.menu-icon#Menu > ul#menu-items > li > a {
     list-style-type: none;
 }
 
-menu#Menu > ul#menu-items > li > a:hover {
+.menu-icon#Menu > ul#menu-items > li > a:hover {
     background-color: var(--color5);
 }
 
