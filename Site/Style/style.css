@@ -98,25 +98,12 @@ nav {
     display: flex;
 }
 
-.menu-icon > i#burger-menu {
-    display: block;
-}
+ .menu a {
+    color: var(--color0);
+    text-decoration: none;
+    padding: 10px 12px;
 
-.menu-icon > i#burger-menu {
-    display: block;
-}
-
-.menu-icon#Menu > ul#menu-items {
-    list-style-type: none;
-}
-
-.menu-icon#Menu > ul#menu-items > li > a {
-    list-style-type: none;
-}
-
-.menu-icon#Men> ul#menu-items > li > a:hover {
-    background-color: var(--color5);
-}
+ }
 
 .menu-icon#Menu a:hover {
     background-color: var(--color5);
