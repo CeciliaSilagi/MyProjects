@@ -19,9 +19,10 @@
 
 * {
     font-family: var(--standart-font);
-    padding: 1px;
-    margin: 1px;
+    padding: 0px;
+    margin: 0px;
     font-size: 1em;
+    box-sizing: border-box;
 }
 
 ::-webkit-scrollbar {
