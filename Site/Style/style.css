@@ -108,6 +108,7 @@ nav {
  .menu a:hover {
     background-color: var(--color5);
     border-radius: 5px;
+ }
  
  section {
     background-color: var(--color5);
