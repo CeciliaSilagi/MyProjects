@@ -10,18 +10,18 @@ Grandes telas: acima de 1200px
 */
 
 @media screen and (min-width: 768px) {
-    .i menu-icon > i#burger-menu {
+    .div menuBtn {
         background-color: var(--color2);
         color: white;
         display: block;
         cursor: pointer;
     }
 
-    .menu #Menu {
+    .menu {
         display: flex;
     }
 
-    .menuBtn > ul{
+    .menuBtn {
         display: none;
     }
 
