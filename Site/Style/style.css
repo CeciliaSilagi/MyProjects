@@ -89,6 +89,14 @@ menu#Menu {
     gap: 6px;
 }
 
+.menu-icon span {
+    width: 32px;
+    height: 4px;
+    background: var(--color0);
+    transition: 0.2s;
+
+}
+
 menu > i#burger-menu {
     display: block;
 }
