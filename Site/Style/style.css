@@ -76,7 +76,7 @@ i#burger-menu:hover {
     color: white;
 }
 
-menu#Menu {
+.menu-icon#Menu {
     display: none;
 }
 
@@ -117,9 +117,13 @@ menu#Menu {
     background-color: var(--color5);
 }
 
-#Menu:hover {
+.menu-icon#Menu a:hover {
     background-color: var(--color5);
     color: black;
+}
+
+.menu-icon.active {
+    display: flex;
 }
 
 section {
