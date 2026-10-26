@@ -32,11 +32,12 @@
 body{
    background-color: var(--color0);
    background-attachment: fixed;
-    font-family: var(--highlight-font);
-    text-align: justify;
-    color: black;
-    margin: auto;
-    overflow: auto;
+   background: #FFFFFF;
+   font-family: var(--highlight-font);
+   text-align: justify;
+   color: black;
+   margin: auto;
+   overflow: auto;
 }
 
 header {
