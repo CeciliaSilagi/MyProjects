@@ -17,11 +17,11 @@ Grandes telas: acima de 1200px
         cursor: pointer;
     }
 
-    .menu-icon #Menu {
+    .menu #Menu {
         display: flex;
     }
 
-    .menu-icon > ul{
+    .menuBtn > ul{
         display: none;
     }
 
