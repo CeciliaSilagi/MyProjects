@@ -76,12 +76,21 @@ i#burger-menu:hover {
     color: white;
 }
 
-menu > i#burger-menu {
-    display: block;
-}
-
 menu#Menu {
     display: none;
+}
+
+/* Burger Icon */
+
+.menu-icon {
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+menu > i#burger-menu {
+    display: block;
 }
 
 menu#Menu > ul#menu-items {
