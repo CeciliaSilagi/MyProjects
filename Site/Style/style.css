@@ -65,7 +65,7 @@ h1 {
 }
 
 nav {
-    background: var(--color4);
+    background: var(--color3);
     padding: 10px 20px;
     justify-content: space-between;
     align-items: center;
