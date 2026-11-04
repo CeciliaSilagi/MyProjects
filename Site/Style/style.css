@@ -65,16 +65,12 @@ h1 {
 }
 
 nav {
-    background: var(--color3);
+    background: var(--color);
     padding: 10px 20px;
     justify-content: space-between;
     align-items: center;
     color: var(--color0);
    
-}
-
-nav-menu {
-    display: flex;
 }
 
 /* Burger Icon */
@@ -94,7 +90,27 @@ nav-menu {
 
 }
 
-section {
+.menu {
+    display: none;
+}
+
+.menu.active {
+    display: flex;
+}
+
+ .menu a {
+    color: var(--color0);
+    text-decoration: none;
+    padding: 10px 12px;
+
+ }
+
+ .menu a:hover {
+    background-color: var(--color5);
+    border-radius: 5px;
+ }
+ 
+ section {
     background-color: var(--color5);
     display: block;
     text-align: left;
